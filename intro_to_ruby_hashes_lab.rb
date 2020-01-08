@@ -12,7 +12,13 @@ def monopoly_with_second_tier
   # complexity.
   base_hash = { :railroads => { 
     :pieces => 4,
-    :rent_in_dollars => "nil",
+    :rent_in_dollars => {
+     :key1
+     :key2
+     :key3
+     :key4
+    }
+    },
   } }
 	base_hash
 end
