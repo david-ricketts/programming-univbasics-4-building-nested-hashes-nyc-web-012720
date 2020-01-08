@@ -17,9 +17,9 @@ def monopoly_with_second_tier
      :key2 => "value",
      :key3 => "value",
      :key4 => "value"
-    },
-    },
-  } }
+    }
+    }
+  } 
 	base_hash
 end
 
